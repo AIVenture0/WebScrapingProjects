@@ -1,4 +1,5 @@
-# 50-lines-of-Python-To-scrap-the-job-of-your-preference
+# WebScrapingProjects
+Each chapter within the project directory will address one end-to-end project to scrape and crawl a unique set of data.
 
 Web scraping automatically extracts data and presents it in a format you can easily make sense of (eg CSV, JSON, XML etc). In this tutorial, we’ll focus on its applications ” Scraping the  Android developer jobs from jobs posting site Glassdoor“. 
 
@@ -14,11 +15,7 @@ Web scraping automatically extracts data and presents it in a format you can eas
  - pip install BeautifulSoup4 # for windows
 
 ## Result
-The output is CSV file with following columns 
-- Job_Title
-- Sal_Paid
-- Comp_Name 	
-- Comp_location
+The output is CSV file 
 
 
 # Author
@@ -28,4 +25,4 @@ The output is CSV file with following columns
 - Linkdin: https://www.linkedin.com/in/vikram-singh-ai-venture/
 - Facebook: https://www.facebook.com/AIVentureO/
 # Ai Venture
-- Website: http://ai-venture.com/
+- Website: https://vikramvinay.github.io/
